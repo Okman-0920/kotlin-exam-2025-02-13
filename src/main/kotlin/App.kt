@@ -7,7 +7,6 @@ import com.ll.global.rq.Rq
 class App {
     fun run() {
 
-
         println("== 명언 앱 ==")
 
         while (true) {
